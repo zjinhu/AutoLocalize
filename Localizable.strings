@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Eraser
+
+  Created by 狄烨 on 2023/7/26.
+  
+*/
+//MARK: History
+"No Photo" = "No historical photos";
+"Edit" = "Edit";
+"Share" = "Share";
+"Delete" = "Delete";
+"History" = "History";
+"Delete this photo?" = "Delete this photo?";
+"Cancle" = "Cancle";
+"Confirm" = "Confirm";
+//MARK: Mine
+"Share to friends" = "Share to friends";
+"Rate %@" = "Rate %@";
+"Dark Mode" = "Dark Mode";
+"Sound" = "Sound";
+"Language" = "Language";
+"Privacy" = "Privacy";
+"About" = "About";
+"Setting" = "Setting";
+
+"VicoCut" = "VicoCut";
+"VicoWidget" = "VicoWidget";
+"PoopTiming" = "PoopTiming";
+
+"My other APPs" = "My other APPs";
+"Welcome" = "Welcome";
+"Auto" = "Auto";
+"Dark" = "Dark";
+"Light" = "Light";
+"You are already a member" = "You are already a member";
+"You are not a member yet" = "You are not a member yet";
+"Join" = "Join";
+"times" = "times";
+"Click to view ads and get save times" = "Click to view ads and get save times";
+//MARK: Subscription
+"Free trial and \n subscription" = "Free trial and \n subscription";
+"Unlimited access to all features" = "Unlimited access to all features";
+"No advertising" = "No advertising";
+"Priority access to the latest features" = "Priority access to the latest features";
+"Auto-renewable, Cancel anytime" = "Auto-renewable, Cancel anytime";
+"Restore" = "Restore";
+"Start your free trial" = "Start your free trial";
+"User Agreement" = "User Agreement";
+
+"Try %lld days for free, then %@%@ / Month" = "Try %lld days for free, then %@%@ / Month";
+
+"Description of automatic renewal service" = "Description of automatic renewal service";
+"Once you confirm your purchase, you will be charged to your Apple ID account. If purchase the auto-renewing subscription, unless you cancel the order at least 24 hours before the end of the current billing cycle, the subscription will automatically renew, and your account will charge the renewal fee within 24 hours before the end of the current billing cycle. You can unsubscribe from account settings in the app store" = "Once you confirm your purchase, you will be charged to your Apple ID account. If purchase the auto-renewing subscription, unless you cancel the order at least 24 hours before the end of the current billing cycle, the subscription will automatically renew, and your account will charge the renewal fee within 24 hours before the end of the current billing cycle. You can unsubscribe from account settings in the app store";
+"Buy Now" = "Buy Now";
+"Subscribe Now" = "Subscribe Now";
+"Auto-renewable, Cancel anytime \n Just %@ per year" = "Auto-renewable, Cancel anytime \n Just %@ per year";
+"(Pre Year)" = "(Pre Year)";
+"(PerManent)" = "(PerManent)";
+"Automatic renewal next Year" = "Automatic renewal next Year";
+"Enjoy all features for life" = "Enjoy all features for life";
+//MARK: Edit
+"Dispose" = "Dispose";
+"Save" = "Save";
+"Can save %lld times" = "Can save %lld times";
+"No permission to save photos to album" = "No permission to save photos to album";
+"To authorize" = "To authorize";
+"No available save counts" = "No available save counts";
+"Membership" = "Membership";
+"Unlimited Save" = "Unlimited Save";
+"Watching AD" = "Watching AD";
+"Get save count" = "Get save count";
+"Click on this button to view the image, zoom in or reposition it" = "Click on this button to view the image, zoom in or reposition it";
+"Get it" = "Get it";
+"Save the photo successfully, go to album to view" = "Save the photo successfully, go to album to view";
+//MARK: Home
+"Artifact eraser" = "Artifact eraser";
+"Precise erasure leaves no trace" = "Precise erasure leaves no trace";
+"No permission to access your photos" = "No permission to access your photos";
+"Please select the erase area" = "Please select the erase area";
